@@ -1,0 +1,6 @@
+﻿  Source.cpp
+Source2.obj : error LNK2005: "public: __cdecl MyClass::MyClass(int)" (??0MyClass@@QEAA@H@Z) already defined in MyClass.obj
+Source2.obj : error LNK2005: "public: __cdecl MyClass::MyClass(void)" (??0MyClass@@QEAA@XZ) already defined in MyClass.obj
+Source2.obj : error LNK2005: "public: __cdecl MyClass::~MyClass(void)" (??1MyClass@@QEAA@XZ) already defined in MyClass.obj
+Source2.obj : error LNK2005: "public: void __cdecl MyClass::Print(void)" (?Print@MyClass@@QEAAXXZ) already defined in MyClass.obj
+C:\Users\user\Desktop\CPP\CPP 핵심 정리\Ch 5 구조 만들기\Project1\x64\Debug\1_structure.exe : fatal error LNK1169: one or more multiply defined symbols found

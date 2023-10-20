@@ -1,0 +1,7 @@
+﻿  2_hongCPP.cpp
+C:\Users\user\Desktop\CPP\CPP 핵심 정리\Project3\2_hongCPP\2_hongCPP.cpp(29,16): error C2015: too many characters in constant
+C:\Users\user\Desktop\CPP\CPP 핵심 정리\Project3\2_hongCPP\2_hongCPP.cpp(29,7): error C2374: 'name': redefinition; multiple initialization
+C:\Users\user\Desktop\CPP\CPP 핵심 정리\Project3\2_hongCPP\2_hongCPP.cpp(19): message : see declaration of 'name'
+C:\Users\user\Desktop\CPP\CPP 핵심 정리\Project3\2_hongCPP\2_hongCPP.cpp(32,7): error C2369: 'name': redefinition; different subscripts
+C:\Users\user\Desktop\CPP\CPP 핵심 정리\Project3\2_hongCPP\2_hongCPP.cpp(19): message : see declaration of 'name'
+C:\Users\user\Desktop\CPP\CPP 핵심 정리\Project3\2_hongCPP\2_hongCPP.cpp(34,7): error C2088: '<<': illegal for class
